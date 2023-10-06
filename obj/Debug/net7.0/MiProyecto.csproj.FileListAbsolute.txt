@@ -1,0 +1,14 @@
+D:\C#\MiProyecto\bin\Debug\net7.0\MiProyecto.exe
+D:\C#\MiProyecto\bin\Debug\net7.0\MiProyecto.deps.json
+D:\C#\MiProyecto\bin\Debug\net7.0\MiProyecto.runtimeconfig.json
+D:\C#\MiProyecto\bin\Debug\net7.0\MiProyecto.dll
+D:\C#\MiProyecto\bin\Debug\net7.0\MiProyecto.pdb
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfoInputs.cache
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfo.cs
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.CoreCompileInputs.cache
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.dll
+D:\C#\MiProyecto\obj\Debug\net7.0\refint\MiProyecto.dll
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.pdb
+D:\C#\MiProyecto\obj\Debug\net7.0\MiProyecto.genruntimeconfig.cache
+D:\C#\MiProyecto\obj\Debug\net7.0\ref\MiProyecto.dll
