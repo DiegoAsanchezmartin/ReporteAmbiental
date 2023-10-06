@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\MiProyecto\\MiProyecto.csproj",
+      "projectUniqueName": "D:\\C#\\ReporteAmbiental\\MiProyecto.csproj",
       "projectName": "MiProyecto",
-      "projectPath": "D:\\C#\\MiProyecto\\MiProyecto.csproj",
+      "projectPath": "D:\\C#\\ReporteAmbiental\\MiProyecto.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\MiProyecto\\obj\\",
+      "outputPath": "D:\\C#\\ReporteAmbiental\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
